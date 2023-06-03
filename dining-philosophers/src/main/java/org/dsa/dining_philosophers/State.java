@@ -1,6 +1,6 @@
 package org.dsa.dining_philosophers;
 
-public enum ChopstickState {
+public enum State {
 
   LEFT,RIGHT
 
