@@ -1,4 +1,4 @@
-package org.dsa.dining_philosophers;
+package dsa.dining_philosophers;
 
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;

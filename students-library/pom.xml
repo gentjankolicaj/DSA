@@ -8,10 +8,10 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>dining-philosophers</artifactId>
+  <artifactId>students-library</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>dining-philosophers</name>
+  <name>students-library</name>
 
   <properties>
     <java.version>11</java.version>
